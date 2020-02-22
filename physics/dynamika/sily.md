@@ -6,7 +6,7 @@ W najprostszym przypadku, na ciało działa siła grawitacji (ciężkości) i si
 
 Ciało jest przyciągane do środka Ziemi przez siłę grawitacji. Wywołuje ono nacisk na podłoże, działając na nie siłą nacisku. Podłoże odreagowuje na ciało siłą reakcji, o tej samej wartości i przeciwnym zwrocie.
 
-![Siły działające na ciało](../.vuepress/dist/dynamics/pl/sily-dzialajace-na-cialo.jpg)
+![Siły działające na ciało](../.vuepress/public/dynamika/sily-dzialajace-na-cialo.jpg)
 
 ## Tarcie ciała o podłoże
 
