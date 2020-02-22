@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@vuepress/plugin-medium-zoom": "^1.3.1",
+    "vuepress": "^1.3.1"
+  },
+  "scripts": {
+    "physics:dev": "vuepress dev physics",
+    "physics:build": "vuepress build physics"
+  },
+  "dependencies": {
+    "vuepress-plugin-mathjax": "^1.2.8"
+  }
+}
