@@ -22,7 +22,7 @@ module.exports = {
       }
     ]
   ],
-  // base: "/fizyka/",
+  base: "/fizyka/",
   themeConfig: {
     lastUpdated: "Last Updated" // string | boolean
   },
