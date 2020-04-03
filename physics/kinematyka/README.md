@@ -12,14 +12,14 @@ Wektor posiada natępujące cechy:
 
 `kierunek, zwrot, wartość (moduł), punkt przyłożenia`
 
-![Ilustracja wektora](/fizyka/kinematyka/wektor.jpg)
+![Ilustracja wektora](../.vuepress/public/kinematyka/wektor.jpg)
 
 ## Droga i przemieszczenie
 
 - Droga $s[m]$ to długość toru po którym porusza się ciało. Np. 600km
 - Przemieszczenie $\triangle r[m]$ to wektor najkrótszej odległości między punktem początkowym a końcowym toru.
 
-![Droga i przemieszczenie](/kinematyka/droga-przemieszczenie.jpg)
+![Droga i przemieszczenie](../.vuepress/public/kinematyka/droga-przemieszczenie.jpg)
 
 ## Prędkość
 
@@ -29,33 +29,6 @@ Prędkość może określać:
 
 - wektorową wielkość fizyczną wyrażająca zmianę wektora położenia w jednostce czasu $\vec{v}=\frac{\triangle \vec{r}}{t}$
 - skalarną wielkość oznaczającą przebytą drogę w jednostce czasu zwaną szybkością $\vec{v}=\frac{{s}}{t}$.
-
-<!-- $\vec{v}=\frac{\triangle \vec{r}}{t}$ - w tym przypadku prędkość jest wielkością wektorową, określana jest jako iloraz zmiany wektora położenia do czasu, w jakim ta zmiana nastąpiła.
-
-$\vec{v}=\frac{{s}}{t}$ - wielkość skalarna rozumiana jako stosunek drogi do czasu jej przebycia gdzie $s$ to długość odcinka krzywej (toru), po której porusza się ciało, od punktu początkowego do końcowego ruchu. -->
-
-<!-- $\vec{V_{śr}}=\frac{\triangle \vec{r}}{t}$ -->
-
-<!-- ![Wzór na prędkość](/kinematics/pl/w-predkosc.jpg) -->
-
-<!-- ### Różnica między prędkością wektorową i prędkością skalarną (szybkością)
-
-::: tip
-W mowie potocznej często posługujemy się zamiennie terminami "prędkość" i "szybkość". Jednakże w kontekście fizycznym dzieli je istotna różnica.
-:::
-Mianowicie prędkość jest wielkością wektorową jeśli posiada natępujące cechy:
-
-1. kierunek
-2. zwrot
-3. wartość
-4. punkt przyłożenia
-
-Natomiast szybkość to wielkość skalarna którą charakteryzuje pewna liczba. Nie posiada pozostałych cech.
-
-Dlatego jeśli chcemy użyć terminu prędkość możemy powiedzieć:
-samochód porusza się na północ z prędkością 24 km/h, lub samochód porusza się z prędkością o **wartości** 24 km/h.
-
-Jeśli chodzi o szybkość to tym razem możemy powiedzieć: porusza się z szybkością 24 km/h -->
 
 ### Sprawdź czy rozumiesz!
 
