@@ -12,14 +12,14 @@ Wektor posiada natępujące cechy:
 
 `kierunek, zwrot, wartość (moduł), punkt przyłożenia`
 
-![Ilustracja wektora](../.vuepress/public/kinematyka/wektor.jpg)
+![Ilustracja wektora](/fizyka/kinematyka/wektor.jpg)
 
 ## Droga i przemieszczenie
 
 - Droga $s[m]$ to długość toru po którym porusza się ciało. Np. 600km
 - Przemieszczenie $\triangle r[m]$ to wektor najkrótszej odległości między punktem początkowym a końcowym toru.
 
-![Droga i przemieszczenie](../.vuepress/public/kinematyka/droga-przemieszczenie.jpg)
+![Droga i przemieszczenie](/kinematyka/droga-przemieszczenie.jpg)
 
 ## Prędkość
 
