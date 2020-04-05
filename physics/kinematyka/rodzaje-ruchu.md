@@ -38,7 +38,6 @@ $a=const$
 
 W ruchu przyspieszonym i opóźnionym należy znać przynajmniej trzy jednostki żeby rozwiązać zadanie. Przykładowo prędkość początkową, przyspieszenie i czas. Znamy trzy jednostki, zadanie do rozwiązania ze wzorów.
 :::
-dd
 
 ## Zadanie 1
 
