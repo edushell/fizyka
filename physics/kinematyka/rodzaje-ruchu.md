@@ -38,3 +38,17 @@ $a=const$
 
 W ruchu przyspieszonym i opóźnionym należy znać przynajmniej trzy jednostki żeby rozwiązać zadanie. Przykładowo prędkość początkową, przyspieszenie i czas. Znamy trzy jednostki, zadanie do rozwiązania ze wzorów.
 :::
+dd
+
+## Zadanie 1
+
+Ciało ruszyło ze stałym przyspieszeniem i w 10s przebyło 300m. Jaką miało prędkość po pięciu sekundach?
+
+1. Wypisz dane.
+2. Wypisz wzory na ruch jednostajnie przyspieszony.
+3. Wyprowadź wzór na szukaną wartość i oblicz.
+
+<div class="videoWrapper">
+    <!-- Copy & Pasted from YouTube -->
+    <iframe width="560" height="349" src="https://www.youtube-nocookie.com/embed/t-0tc7EXtXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

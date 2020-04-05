@@ -6,7 +6,7 @@ x[m] określa na którym metrze jest ciało w danej chwili.
 
 $x = x_0 \pm s$
 
-### Zadanie
+### Zadanie 1
 
 Z miejscowości A (0km) w stronę B (12km) wyruszył samochód osobowy z prędkością $20\frac{m}{s}$. W tym samym czasie z B do A samochód z prędkością $120\frac{km}{h}$.
 
