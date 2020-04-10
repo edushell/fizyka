@@ -24,6 +24,7 @@ module.exports = {
     [
       "vuepress-plugin-simple-analytics",
       {
+        customDomain: "api.edushell.net",
         skipDnt: true,
       },
     ],
