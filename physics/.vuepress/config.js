@@ -21,7 +21,12 @@ module.exports = {
         },
       },
     ],
-    ["vuepress-plugin-simple-analytics"],
+    [
+      "vuepress-plugin-simple-analytics",
+      {
+        skipDnt: true,
+      },
+    ],
   ],
   base: "/fizyka/",
   themeConfig: {
